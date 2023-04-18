@@ -1,7 +1,6 @@
 {
     "name": "ps3-game-updater",
     "version": "0.0.0-dev",
-    "private": true,
     "license": "MIT",
     "bin": "build/cli.js",
     "keywords": [
