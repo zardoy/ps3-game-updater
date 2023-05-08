@@ -1,4 +1,4 @@
-import { getGameUpdates } from '.'
+import { getGameUpdates } from './index.js'
 import open from 'open'
 
 if (process.argv.includes('--help')) {
